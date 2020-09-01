@@ -1,3 +1,31 @@
+# Regression
+
+Regression analysis is one of the most important fields in statistics and machine learning. There are many regression methods available. Linear regression is one of them.
+
+## When Do You Need Regression?
+
+Typically, you need regression to answer whether and how some phenomenon influences the other or how several variables are related. For example, you can use it to determine if and to what extent the experience or gender impact salaries.
+
+## Linear Regression
+Linear regression is probably one of the most important and widely used regression techniques. It’s among the simplest regression methods. One of its main advantages is the ease of interpreting results.
+
+## Implementing Linear Regression in Python
+
+The package NumPy is a fundamental Python scientific package that allows many high-performance operations on single- and multi-dimensional arrays. It also offers many mathematical routines. Of course, it’s open source.
+
+The package scikit-learn is a widely used Python library for machine learning, built on top of NumPy and some other packages. It provides the means for preprocessing data, reducing dimensionality, implementing regression, classification, clustering, and more. Like NumPy, scikit-learn is also open source.
+
+## There are five basic steps when you’re implementing linear regression:
+
+1. Import the packages and classes you need.
+2. Provide data to work with and eventually do appropriate transformations.
+3. Create a regression model and fit it with existing data.
+4. Check the results of model fitting to know whether the model is satisfactory.
+5. Apply the model for predictions.
+
+
+
+
 # How to Run Linear Regression in Python
 
 * **Scikit-learn** is a powerful Python module for machine learning. It contains function for regression, classification, clustering, model selection and dimensionality reduction.
@@ -28,3 +56,12 @@ Residual plots are a good way to visualize the errors in your data. If you have 
 
 
 
+# Conclusion
+1. how we can implement it with Python and three open-source packages: NumPy and scikit-learn.
+2. You use NumPy for handling arrays.
+3. Linear regression is implemented with the following:
+
+    * scikit-learn if you don’t need detailed results and want to use the approach consistent with other regression techniques
+    * statsmodels if you need the advanced statistical parameters of a model
+
+    
