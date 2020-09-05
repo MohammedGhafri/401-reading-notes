@@ -4,7 +4,7 @@
 
 Generally speaking, we can break down applied machine learning into the following chunks:
 
-<img src="/img/What-Goes-Into-a-Successful-Model.jpg">
+<img src="img/What-Goes-Into-a-Successful-Model.jpg">
 
 
 ## Exploratory Analysis
@@ -56,7 +56,7 @@ Again, that’s because better data beats fancier algorithms.
 
 When we talk of tuning models, we specifically mean tuning **hyperparameters**.
 
-<img src="/img/hyper.PNG">
+<img src="img/hyper.PNG">
 
 ### Fit and Tune Models
 
