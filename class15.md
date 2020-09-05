@@ -42,7 +42,7 @@ Breadth first traversal iterates through the tree by going through each level of
 
 There is no specific sorting order for a binary tree. Nodes can be added into a binary tree wherever space allows. Here is what a binary tree looks like:
 
-<img src="img/treeB01.PNG">
+<img src="/img/treeB01.PNG">
 
 
 ### Adding a node
