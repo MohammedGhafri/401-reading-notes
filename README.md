@@ -26,5 +26,11 @@ Read 16  |[Link 16](https://mohammedghafri.github.io/401-reading-notes/class16)
 Read 17  |[Link 17](https://mohammedghafri.github.io/401-reading-notes/class17)
 Read 18  |[Link 18](https://mohammedghafri.github.io/401-reading-notes/class18)
 Read 19  |[Link 19](https://mohammedghafri.github.io/401-reading-notes/class19)
-Read 20  |[Link 20](https://mohammedghafri.github.io/401-reading-notes/class20)
+Read 26  |[Link 26](https://mohammedghafri.github.io/401-reading-notes/class26)
+Read 27  |[Link 27](https://mohammedghafri.github.io/401-reading-notes/class27)
+Read 28  |[Link 28](https://mohammedghafri.github.io/401-reading-notes/class28)
+Read 29  |[Link 29](https://mohammedghafri.github.io/401-reading-notes/class29)
+Read 30  |[Link 30](https://mohammedghafri.github.io/401-reading-notes/class30)
+
+
 
