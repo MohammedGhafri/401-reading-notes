@@ -14,7 +14,7 @@ Models define the structure of stored data, including the field types and possib
 
 * Once we've decided on our models and field, we need to think about the relationships. Django allows you to define relationships that are one to one (OneToOneField), one to many (ForeignKey) and many to many (ManyToManyField).
 
-<img src="img/django_model.PNG>
+<img src="img/django_model.PNG">
 
 
 ## Model primer
