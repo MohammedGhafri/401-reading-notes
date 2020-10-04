@@ -36,6 +36,13 @@ Read 32  |[Link 32](https://mohammedghafri.github.io/401-reading-notes/class32)
 Read 33  |[Link 33](https://mohammedghafri.github.io/401-reading-notes/class33)
 Read 34  |[Link 34](https://mohammedghafri.github.io/401-reading-notes/class34)
 Read 35  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class35)
+Read 36  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class36)
+Read 37  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class37)
+Read 38  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class38)
+Read 39  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class39)
+Read 40  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class40)
+
+
 
 
 
