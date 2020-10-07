@@ -53,3 +53,6 @@ Next.js is used in tens of thousands of production-facing websites and web appli
 
 
 
+[For more information](https://reactrouter.com/web/guides/quick-start)
+[For more information](https://reactjs.org/docs/faq-styling.html)
+[For more information](https://nextjs.org/learn/basics/create-nextjs-app)
