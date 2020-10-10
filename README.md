@@ -41,6 +41,12 @@ Read 37  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class37)
 Read 38  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class38)
 Read 39  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class39)
 Read 40  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class40)
+Read 41  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class41)
+Read 42  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class42)
+Read 43  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class43)
+Read 44  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class44)
+Read 45  |[Link 35](https://mohammedghafri.github.io/401-reading-notes/class45)
+
 
 
 
